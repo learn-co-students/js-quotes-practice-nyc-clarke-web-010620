@@ -44,15 +44,6 @@
       "id": 9,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
@@ -60,6 +51,142 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteID": "undefined",
+      "id": 2
+    },
+    {
+      "quoteID": "undefined",
+      "id": 3
+    },
+    {
+      "quoteID": "undefined",
+      "id": 4
+    },
+    {
+      "quoteID": "undefined",
+      "id": 5
+    },
+    {
+      "quoteID": "undefined",
+      "id": 6
+    },
+    {
+      "quoteID": "undefined",
+      "id": 7
+    },
+    {
+      "quoteID": "undefined",
+      "id": 8
+    },
+    {
+      "quoteID": "undefined",
+      "id": 9
+    },
+    {
+      "quoteID": "",
+      "id": 10
+    },
+    {
+      "quoteID": "",
+      "id": 11
+    },
+    {
+      "quoteID": "1",
+      "id": 12
+    },
+    {
+      "quoteID": "1",
+      "id": 13
+    },
+    {
+      "quoteID": "1",
+      "id": 14
+    },
+    {
+      "quoteID": "1",
+      "id": 15
+    },
+    {
+      "quoteID": "2",
+      "id": 16
+    },
+    {
+      "quoteID": 2,
+      "id": 17
+    },
+    {
+      "quoteId": null,
+      "id": 18
+    },
+    {
+      "quoteId": null,
+      "id": 19
+    },
+    {
+      "quoteId": null,
+      "id": 20
+    },
+    {
+      "quoteId": null,
+      "id": 21
+    },
+    {
+      "quoteId": null,
+      "id": 22
+    },
+    {
+      "quoteId": null,
+      "id": 23
+    },
+    {
+      "quoteId": null,
+      "id": 24
+    },
+    {
+      "quoteId": null,
+      "id": 25
+    },
+    {
+      "quoteId": null,
+      "id": 26
+    },
+    {
+      "quoteId": null,
+      "id": 27
+    },
+    {
+      "quoteId": null,
+      "id": 28
+    },
+    {
+      "quoteId": null,
+      "id": 29
+    },
+    {
+      "quoteId": 3,
+      "id": 30
+    },
+    {
+      "quoteId": 3,
+      "id": 31
+    },
+    {
+      "quoteId": 3,
+      "id": 32
+    },
+    {
+      "quoteId": 2,
+      "id": 33
+    },
+    {
+      "quoteId": 2,
+      "id": 34
+    },
+    {
+      "quoteId": 3,
+      "id": 35
     }
   ]
 }
